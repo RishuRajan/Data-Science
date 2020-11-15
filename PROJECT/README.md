@@ -1,4 +1,4 @@
-#PUBG DATASET
+#PUBG PROJECT
 
 The team at PUBG has made official game data available for the public to explore and scavenge outside
 of "The Blue Circle." This competition is not an official or affiliated PUBG site - Kaggle collected data made
