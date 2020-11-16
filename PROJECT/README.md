@@ -67,4 +67,6 @@ teamKills, roadKills.
 22. Take a sample of size 50 from the column damageDealt for 100 times and calculate its mean. Plot
 it on a histogram and comment on its distributio
 
+
+## IF PROJECT IS NOT GETTING LOADED THEN SEE MY WORK FROM THIS PROJECT URL
 PROJECT URL-https://nbviewer.jupyter.org/github/RishuRajan/Data-Science/blob/main/PROJECT/PUBG-PROJECT.ipynb
