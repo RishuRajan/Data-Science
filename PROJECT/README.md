@@ -66,3 +66,5 @@ teamKills, roadKills.
 21. Round off column ‘winPlacePerc’ to 2 decimals.
 22. Take a sample of size 50 from the column damageDealt for 100 times and calculate its mean. Plot
 it on a histogram and comment on its distributio
+
+PROJECT URL-https://nbviewer.jupyter.org/github/RishuRajan/Data-Science/blob/main/PROJECT/PUBG-PROJECT.ipynb
